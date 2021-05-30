@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    font-family:sans-serif;
+    background-color: #103952;
+    color: white;
+}
+
+img{
+    width: 365px;
+    height: 365px;
+}
+section div{
+    flex-grow:1;
+}
+section{
+    display: flex;
+}
+
+label {
+    display: inline-block;
+    width: 80px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#aantal{
+    width: 3em;
+    text-align: center;
+}
+
+#maten{
+    text-align: left;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0;
+}
+
+@media screen and (max-width: 550px) {
+    section{
+        display: inline-block;
+    }
+}
+

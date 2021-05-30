@@ -1,0 +1,23 @@
+#reservering{
+    margin: 75px;
+    background-color: white;
+    width: 350px;
+    float: left;
+    border-radius: 10px;
+}
+
+body{
+    text-align: center;
+    background-color: #103952;
+    font-family: sans-serif;
+    color: black;
+    display: inline-block;
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: black;
+}

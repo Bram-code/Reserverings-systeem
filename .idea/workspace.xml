@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94df3adc-eddc-4485-bdc4-7a0e67fda204" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ldq9TPiPKaCRMqX4kV80YP6Wyl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CLE4" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CLE2prototype\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="DatabaseScript" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94df3adc-eddc-4485-bdc4-7a0e67fda204" name="Default Changelist" comment="" />
+      <created>1607937164272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607937164272</updated>
+      <workItem from="1607937166009" duration="6120000" />
+      <workItem from="1607955687667" duration="4288000" />
+      <workItem from="1607976458284" duration="5149000" />
+      <workItem from="1607981723396" duration="141000" />
+      <workItem from="1608119138350" duration="603000" />
+      <workItem from="1608298762791" duration="651000" />
+      <workItem from="1609936729589" duration="1539000" />
+      <workItem from="1610031080693" duration="8356000" />
+      <workItem from="1610051957886" duration="3462000" />
+      <workItem from="1610108445117" duration="19010000" />
+      <workItem from="1610291270904" duration="18732000" />
+      <workItem from="1610359841572" duration="4489000" />
+      <workItem from="1610374496729" duration="3248000" />
+      <workItem from="1610529160200" duration="7052000" />
+      <workItem from="1610539780982" duration="10566000" />
+      <workItem from="1610717282375" duration="10621000" />
+      <workItem from="1610739408293" duration="6632000" />
+      <workItem from="1610889606151" duration="14791000" />
+      <workItem from="1610908217808" duration="3134000" />
+      <workItem from="1611001801646" duration="679000" />
+      <workItem from="1611577244448" duration="12000" />
+      <workItem from="1611577456661" duration="18000" />
+      <workItem from="1611751538719" duration="9561000" />
+      <workItem from="1611929813461" duration="7890000" />
+      <workItem from="1612865231084" duration="78000" />
+      <workItem from="1615142980768" duration="1983000" />
+      <workItem from="1615193490060" duration="598000" />
+      <workItem from="1615195697582" duration="369000" />
+      <workItem from="1615196084262" duration="52000" />
+      <workItem from="1615996838016" duration="1221000" />
+      <workItem from="1616405124219" duration="2397000" />
+      <workItem from="1616575786471" duration="608000" />
+      <workItem from="1616929167288" duration="6755000" />
+      <workItem from="1617005418518" duration="607000" />
+      <workItem from="1617204850095" duration="728000" />
+      <workItem from="1617356901345" duration="716000" />
+      <workItem from="1619607377472" duration="2450000" />
+      <workItem from="1621768640884" duration="2437000" />
+      <workItem from="1622014754045" duration="1917000" />
+      <workItem from="1622025969926" duration="2630000" />
+      <workItem from="1622390996019" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1622391129978">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622391129978" />
+    <state x="431" y="106" key="SettingsEditor" timestamp="1616933092704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="106" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1616933092704" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1616930771339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1616930771339" />
+  </component>
+</project>
